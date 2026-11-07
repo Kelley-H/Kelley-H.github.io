@@ -86,7 +86,9 @@
 }
 
 .tutorDate {
-    text-align: right;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 25%;
 }
 
 .experiences {
