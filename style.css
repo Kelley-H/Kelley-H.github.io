@@ -87,11 +87,6 @@
     align-items: center;
 }
 
-.title,
-.date {
-    font-weight: bold;
-}
-
 .header {
     text-align: center;
 }
