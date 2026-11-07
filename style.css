@@ -55,9 +55,19 @@
     gap: 15px;
 }
 
+.small-img {
+    grid-row: span 3;
+    height: 150px;
+}
+
+.medium-img {
+    grid-row: span 4;
+    height: 250px;
+}
+
 .large-img {
-    grid-row: span 2;
-    height: 315px;
+    grid-row: span 1;
+    height: 450px;
 }
 
 .image-grid img {
