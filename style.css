@@ -1,9 +1,15 @@
 .aboutMe {
+    padding: 0 15px;
     display: flex;
+    flex-wrap: flex;
     align-items: center;
-    gap: 12px;
+    justify-content: space-around;
+    gap: 5rem;
 }
 
-.aboutMe img {
-    width: 120px;
+img {
+    width: 100%;
+    max-width: 400px;
+    object-fit: cover;
+    vertical-align: middle;
 }
