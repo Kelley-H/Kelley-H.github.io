@@ -57,17 +57,17 @@
 
 .small-img {
     grid-row: span 3;
-    height: 150px;
+    height: 50px;
 }
 
 .medium-img {
     grid-row: span 4;
-    height: 250px;
+    height: 150px;
 }
 
 .large-img {
     grid-row: span 1;
-    height: 450px;
+    height: 350px;
 }
 
 .image-grid img {
@@ -75,4 +75,12 @@
     height: 100%;
     object-fit: cover;
     border-radius: 12px;
+}
+
+.expHeader {
+    text-align: center;
+}
+
+.tutorDate {
+    text-align: right;
 }
