@@ -81,17 +81,23 @@
     border-radius: 12px;
 }
 
-.expHeader {
+.header {
     text-align: center;
 }
 
-.tutorDate {
+.date {
     width: fit-content;
     margin-left: auto;
     margin-right: 25%;
 }
 
-.experiences {
+.title {
+    width: fit-content;
+    margin-right: auto;
+    margin-left: 25%;
+}
+
+.page {
     gap: 40px;
     max-width: 1200px;
     margin: 0 auto;
