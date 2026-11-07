@@ -81,6 +81,12 @@
     border-radius: 12px;
 }
 
+.helper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .header {
     text-align: center;
 }
