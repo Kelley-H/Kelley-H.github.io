@@ -1,19 +1,16 @@
-.aboutMeImage {
-    padding: 0 15px;
+.containerAB {
     display: flex;
-    flex-wrap: flex;
-    align-items: center;
-    justify-content: space-around;
-    gap: 5rem;
+    align-items: flex-start;
+    /* keeps top edges aligned */
+    gap: 20px;
+    /* space between columns */
 }
 
-img {
-    width: 100%;
-    max-width: 400px;
-    object-fit: cover;
-    vertical-align: middle;
+.leftAB {
+    width: 40%;
+    /* adjust as needed */
 }
 
-.aboutMe {
-    flex: 1;
+.rightAB {
+    width: 60%;
 }
