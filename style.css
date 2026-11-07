@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Georgia, sans-serif;
     background-color: #1c9099;
     color: #ece2f0;
 }
@@ -35,7 +35,7 @@ body {
 
 .navigationBar {
     text-align: center;
-    color: #a6bddb;
+    background-color: #a6bddb;
 }
 
 .projects {
@@ -111,7 +111,9 @@ body {
 }
 
 .body {
-    text-align: center;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: 10%;
 }
 
 .page {
