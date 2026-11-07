@@ -1,14 +1,11 @@
 .containerAB {
     display: flex;
-    /* keeps top edges aligned */
     gap: 20px;
     align-items: flex-start;
-    /* space between columns */
 }
 
 .leftAB {
-    width: 40%;
-    /* adjust as needed */
+    width: 30%;
 }
 
 .leftAB img {
@@ -18,5 +15,5 @@
 }
 
 .rightAB {
-    width: 60%;
+    width: 70%;
 }
