@@ -1,14 +1,20 @@
 .containerAB {
     display: flex;
-    align-items: flex-start;
     /* keeps top edges aligned */
     gap: 20px;
+    align-items: flex-start;
     /* space between columns */
 }
 
 .leftAB {
     width: 40%;
     /* adjust as needed */
+}
+
+.leftAB img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .rightAB {
