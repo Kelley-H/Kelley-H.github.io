@@ -121,3 +121,15 @@ body {
     max-width: 1200px;
     margin: 0 auto;
 }
+
+.bodyContact {
+    text-align: center;
+}
+
+.divider {
+    border: none;
+    height: 2px;
+    background-color: #ccc;
+    margin: 50px auto;
+    max-width: 1000px;
+}
